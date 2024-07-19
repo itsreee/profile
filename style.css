@@ -1,0 +1,93 @@
+
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+.rect
+{
+    width: 300px;
+    height: 370px;
+    margin-top: 20px;
+    padding-left: 20px;
+    border-radius: 20px;
+    background: #EEE982;    
+    
+}
+#img
+{
+width: 250px;
+height: 260px;    
+margin-top: 20px;
+margin-right: 40px;
+margin-left: 35px;
+}
+h1{
+width: 264px;
+height: 24px;    
+padding-top: 50px;
+margin-left: 20px;
+text-align: center;
+font-family: Inter;
+font-size: 24px;
+font-weight: 700;
+line-height: 33.89px;
+text-align: left;
+
+}
+#btn
+{
+    background: #6474FF;
+    width: 242px;
+    height: 59px;
+    margin-top: 30px;
+    margin-left: 20px;
+    color: white;
+    font-weight: 600;
+    font-size: larger;
+    border-radius: 20px;
+        
+}
+#uname{
+width: 250px;
+height: 35px;   
+margin-top: 30px;
+padding-right: 20px;
+border-radius:10px;
+padding-left: 10px;
+padding-top: 20px;
+font-weight: 400;
+font-size: larger;
+background: #FDFDFD;
+}
+#pass{
+    width: 250px;
+    height: 35px;   
+    margin-top: 20px;
+    padding-right: 20px;
+    border-radius:10px;
+    padding-left: 10px;
+    padding-top: 20px;
+    font-weight: 400;
+    font-size: larger;
+    background: #FDFDFD;
+
+}
+#rew
+{
+    background-color:#FFFFFF;
+    border: solid rgb(239, 229, 229);
+    background-color: #FFFFFF;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: #EEE982;
+}
+#rope{
+width: 325px;
+height: 932px;    
+margin-top: 206px;
+margin-right: -226px;
+gap: 20px;
+border-radius:10px;
+margin-left: 600px;
+}
